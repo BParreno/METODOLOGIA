@@ -16,4 +16,4 @@ function sumElements(numbers) {
     return sum;
   }
 let sum = sumElements (numbers);
-alert (sum);
+alert ("1+2+3+4+5= " + sum);
